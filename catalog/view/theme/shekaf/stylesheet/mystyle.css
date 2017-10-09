@@ -1,0 +1,78 @@
+.header{
+	padding: 15px;
+	    color: #77787b;
+}
+.header a{
+	    color: #77787b;
+}
+.header a:hover{
+	color: #b92626;
+	text-decoration:none;
+}
+.header span{
+	padding: 0 0px 0 10px;
+}
+.header i{
+    position: relative;
+    top: 3px;
+    margin-right: 22px;
+    margin-left: 6px;
+}
+.header-logo{
+	height: 124px;
+}
+.header-logo img{
+	position: absolute;
+    left: 38px;
+    top: 20px;
+	height: 85px;
+}
+.header-buy-button{
+	width: 20%!important;
+    margin-right: 22px;
+}
+.btn-inverse {
+	background-color: #4caf50!important;
+}
+.dropdown-menu{
+	width:220px;
+	padding:10px!important;
+}	
+.navbar-nav i{
+	font-size: 10px;
+    position: relative;
+    top: 1px;
+    left: -2px;
+}
+.footer-bg{
+	background-image: url('../image/footer.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.footer-register-logo{
+	text-align: center;
+    margin-top: 80px;
+}
+.footer-text{
+	padding:50px;
+	color: #7d7474;
+	text-align: justify;
+	line-height:28px;
+}
+.footer-Cooperation{
+	padding: 10px;
+    text-align: center;
+	margin-top: 24px;
+}
+.footer-Cooperation img{
+	height:50px;
+	margin:10px;
+}
+.list-syler{
+	padding-right: 0; 
+    list-style: none;
+}
+.list-syler a:hover{
+	color: #d87171;	  
+	text-decoration: none;
+}
