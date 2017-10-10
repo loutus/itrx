@@ -1,0 +1,27 @@
+2017-10-10 13:01:52 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:02:29 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:02:30 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:08:23 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:09:13 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:09:13 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:10:19 - PHP Notice:  Undefined variable: omid in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\footer.tpl on line 2
+2017-10-10 13:12:35 - PHP Notice:  Array to string conversion in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:13:24 - PHP Notice:  Array to string conversion in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:13:37 - PHP Notice:  Array to string conversion in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:14:19 - PHP Notice:  Array to string conversion in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 83
+2017-10-10 13:18:20 - PHP Notice:  Undefined variable: text_information in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 87
+2017-10-10 13:18:31 - PHP Notice:  Undefined variable: text_information in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\header.tpl on line 87
+2017-10-10 13:27:57 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:41:18 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:41:31 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:42:18 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:42:44 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:44:00 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:45:54 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 13:46:23 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 14:06:44 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 14:07:35 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 14:09:12 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\default\template\common\footer.tpl on line 4
+2017-10-10 14:12:35 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\footer.tpl on line 8
+2017-10-10 14:12:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\footer.tpl on line 8
+2017-10-10 14:13:12 - PHP Notice:  Undefined variable: informations in C:\Users\Shekaf\Documents\GitHub\itrx\catalog\view\theme\shekaf\template\common\footer.tpl on line 3

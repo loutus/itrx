@@ -10,7 +10,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title><?php echo $title; ?></title>
-<base href="<?php echo $base; ?>" />
+<base href="http://192.168.1.161:2080/" />
 <?php if ($description) { ?>
 <meta name="description" content="<?php echo $description; ?>" />
 <?php } ?>
@@ -78,10 +78,28 @@
 	 <div class="col-sm-5"><?php echo $search; ?></div>
 	 
 </div>
-<?php if ($categories) { ?>
+ 
+    
+
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <ul class="nav navbar-nav">
+	
+		<?php if ($informations) { ?>
+          <?php foreach ($informations as $information) { ?>
+          <li><a href="<?php echo $information['href']; ?>"><?php echo $information['title']; ?></a></li>
+          <?php } ?>
+      <?php } ?>
+
+	
+	 
+	
+	
+	
+	
+	
+	
+	<?php if ($categories) { ?>
         <?php foreach ($categories as $category) { ?>
         <?php if ($category['children']) { ?>
         <li class="dropdown"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" data-toggle="dropdown"><?php echo $category['name']; ?> <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
@@ -101,7 +119,7 @@
         <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
         <?php } ?>
         <?php } ?>
+		<?php } ?>
     </ul>
   </div>
 </nav>
-<?php } ?>

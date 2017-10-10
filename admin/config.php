@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://127.0.0.1:2080/admin/');
-define('HTTP_CATALOG', 'http://127.0.0.1:2080/');
+define('HTTP_SERVER', 'http://192.168.1.161:2080/admin/');
+define('HTTP_CATALOG', 'http://192.168.1.161:2080/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://127.0.0.1:2080/admin/');
-define('HTTPS_CATALOG', 'http://127.0.0.1:2080/');
+define('HTTPS_SERVER', 'http://192.168.1.161:2080/admin/');
+define('HTTPS_CATALOG', 'http://192.168.1.161:2080/');
 
 // DIR
 define('DIR_APPLICATION', 'C:/Users/Shekaf/Documents/GitHub/itrx/admin/');
